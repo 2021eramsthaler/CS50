@@ -1,6 +1,6 @@
 #Scratch Project
 
-**This is bloded**
+**This is bolded**
 *This is italicized*
 ~~strikethrough~~
 
