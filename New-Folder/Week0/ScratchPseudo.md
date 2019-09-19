@@ -9,5 +9,5 @@ numbered list
 2. item two
 
 bulletted list
-*item one
-*item two
+ *item one
+ *item two
