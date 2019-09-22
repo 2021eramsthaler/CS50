@@ -1,7 +1,7 @@
 #Scratch Project
 
-If green flag is clicked, show game screen.
-Set "score" to 0.
+If green flag is clicked, show game screen.<br>
+Set "score" to 0.<br>
 Set "timer" to 15. 
 Bear: go to x: 142 and y:-99
 Apple, Strawberry, Banana, and Orange: go to x: pick random -220 to 220 and y: pick random -160 to 160
