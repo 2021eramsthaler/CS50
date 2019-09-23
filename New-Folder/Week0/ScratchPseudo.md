@@ -1,4 +1,4 @@
-#Scratch Project
+"Catch the Food" Scratch Project
 
 If green flag is clicked, show game screen.<br>
 Set "score" to 0.<br>
