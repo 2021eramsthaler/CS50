@@ -21,8 +21,9 @@ In C, you must declare the type of variable you are creating
 Scratch: change counter by 1
 
 ```C
-counter = counter + 1
-counter +=1
+counter = counter + 1 # add any number to counter
+counter +=1 # add any number to counter
+counter++# only adds plus 1 to counter
 ```
 
 The = sign is not "equals," it means "assign" or "get."
