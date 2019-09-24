@@ -27,3 +27,16 @@ counter++# only adds plus 1 to counter
 ```
 
 The = sign is not "equals," it means "assign" or "get."
+
+```C
+if (x<y)
+{printf("x is less than y/n");}
+```
+
+```C
+if (x<y)
+{printf("x is less than y\n");}
+else if (x>y)
+{print is greater than y\n");}
+else if (x==y)
+{printf("x is equal to y\n");}
