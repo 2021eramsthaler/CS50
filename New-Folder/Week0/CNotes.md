@@ -59,7 +59,7 @@ Three inputs above are required to use for a loop
 answer=get_string("What's your name?\n");
 printf("%s", answer);
 ```
-Return value- what the function is handing back
+Return value- what the function is handing back <br>
 % is saying that it will give printf a string to put into the first input, the answer or variable
 
 ```C
