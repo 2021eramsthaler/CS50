@@ -35,7 +35,7 @@ if (x<y)
 
 ```C
 if (x<y)
-{printf("x is less than y\n");}
+{printf("x is less than y\n");} 
 else if (x>y)
 {print is greater than y\n");}
 else if (x==y)
