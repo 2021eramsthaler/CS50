@@ -1,4 +1,4 @@
-//Collection of notes in the C language
+#Collection of notes in the C language
 
 Scratch: Say (hello, world)
 
@@ -66,3 +66,12 @@ Return value- what the function is handing back <br>
 string answer=get_string("What's your name?\n");
 printf("hello, %s", answer);
 ```
+
+#include <stdio.h>
+
+int main (void)
+{
+printf("hello, world\n");
+}
+
+Source Code 
